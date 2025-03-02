@@ -12,7 +12,7 @@ CollabNest is a **community collaboration platform** designed to help people sha
 
 ## Live Demo
 
-Check out the live demo of CollabNest: 
+Check out the live demo of CollabNest: peppy-parfait-010778.netlify.app
 
 ## Technologies Used
 
