@@ -47,4 +47,4 @@ Check out the live demo of CollabNest:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/collabnest.git
+   https://github.com/hrishi2108/code_crafters.git
