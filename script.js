@@ -30,7 +30,7 @@ document.getElementById('showSignup').addEventListener('click', function (e) {
     // Check if username and password match
     if (userData.username === username && userData.password === password) {
       alert("Login successful!");
-      window.location.href = "../home/index.html"; // Redirect to home page
+      window.location.href = "home.html"; // Redirect to home page
     } else {
       alert("Invalid username or password.");
     }
