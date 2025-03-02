@@ -79,7 +79,7 @@ No external APIs were used in this project.
 ## Contributors
 
 - **[Hrishi vikas yadav]** (Team Lead) - Managed collaboration, post page and collaborate page
-- **Tushar Jaiswal** - Login page Ui ~
+- **Tushar Jaiswal** - Login page Ui and fixed key functionalities for better user experience
 - **Amalika soni** - Home page improvements & styling and logo of the website
 
 ## Future Improvements
