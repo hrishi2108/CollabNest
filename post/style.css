@@ -1,0 +1,108 @@
+/* General Styles */
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  header .logo {
+    display: flex;
+    align-items: center;
+  }
+  
+  header .logo img {
+    height: 50px;
+    margin-right: 10px;
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  nav ul li {
+    margin-left: 20px;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  main {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  #post {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  #postForm label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  #postForm input,
+  #postForm select,
+  #postForm textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  #postForm button {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #postForm button:hover {
+    background-color: #555;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    margin-top: auto;
+  }
+  
+  footer ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+  }
+  
+  footer ul li {
+    margin: 0 10px;
+  }
+  
+  footer ul li a {
+    color: #fff;
+    text-decoration: none;
+  }

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CollabNest - Post</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="logo">
+      <img src="../assets/logo.png" alt="CollabNest Logo">
+      <h1>CollabNest</h1>
+    </div>
+    <nav>
+      <ul>
+        <li><a href="../home/index.html">Home</a></li>
+        
+        <li><a href="../collaborate/index.html">Collaborate</a></li>
+        
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section id="post">
+      <h2>Post Your Idea/Resource/Skill</h2>
+      <form id="postForm">
+        <label for="title">Title:</label>
+        <input type="text" id="title" name="title" required>
+        
+        <label for="category">Category:</label>
+        <select id="category" name="category">
+          <option value="idea">Idea</option>
+          <option value="resource">Resource</option>
+          <option value="skill">Skill</option>
+        </select>
+        
+        <label for="description">Description:</label>
+        <textarea id="description" name="description" rows="4" required></textarea>
+        
+        <button type="submit">Post</button>
+      </form>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2023 CollabNest. All rights reserved.</p>
+    
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
