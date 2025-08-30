@@ -16,6 +16,9 @@ CollabNest is a **community collaboration platform** designed to help people sha
 - Kept UI minimal for better performance
 - Focused on core functionality rather than advanced animations
 
+## Deployed Link 
+https://peppy-parfait-010778.netlify.app/
+
 ## Live Demo
 
 Check out the live demo of CollabNest: peppy-parfait-010778.netlify.app
